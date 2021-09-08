@@ -132,7 +132,7 @@ export default function App() {
           <div className="list" key={index}>
             <p>Name: {series.name}</p>
             <p>Rating: {series.rating}</p>
-            <p>Year of Release: {series.NoofSeasons}</p>
+            <p>No of Seasons: {series.NoofSeasons}</p>
           </div>
         ))}
       </div>
