@@ -1,4 +1,30 @@
+:root {
+  --primary-color: #4b5563;
+}
+
 .App {
   font-family: sans-serif;
   text-align: center;
+  width: 80%;
+  margin: auto;
+  background-color: var(--primary-color);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  margin-top: 2rem;
+}
+
+.list {
+  border: 1px solid greenyellow;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border-radius: 1rem;
+  max-width: 50%;
+  margin: auto;
+  margin-bottom: 0.5rem;
+}
+
+body {
+  background-color: black;
+  color: rgba(250, 229, 37, 0.966);
+  font-size: 1rem;
 }
