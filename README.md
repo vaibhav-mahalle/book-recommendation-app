@@ -1,2 +1,3 @@
 # book-recommendation-app
-Created with CodeSandbox
+
+The app created using REACT is used to list out the various web series recommendations various genres .
